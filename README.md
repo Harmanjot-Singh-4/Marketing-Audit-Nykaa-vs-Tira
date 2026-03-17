@@ -40,7 +40,7 @@ The Halo Effect: In the visualizations, the faint outer circles (Observed ROI) r
 
 Note: This analysis specifically covers top 10 channel combinations used during April 2025.
 
-![True Skill Audit](true_roi_and_observed_roi.png)
+![True Skill Audit](true_roi_accserved_roi.png)
 
 3️⃣ Monte Carlo Forecasting
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -68,7 +68,7 @@ Nykaa: Double down on the Email, YouTube, Facebook mix.
 
 Tira: Prioritize Google, Facebook, Email.
 
-![True Skill Audit](true_roi_and_observed_roi.png)
+![True Skill Audit](true_roi_andccoi.png)
 
 C. Efficiency & Lead Quality
 --------------------------------------------------------------------------------
