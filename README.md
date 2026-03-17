@@ -30,7 +30,7 @@ Student’s T-Test: Since equal variance was confirmed, a standard T-test was ap
 
 The Verdict: A p-value of 0.1487 was found, meaning we fail to reject the null hypothesis. The ROI difference is not statistically significant.
 
-![ROI Analysis](hypothesis_roi.png)
+![ROI Analysis](hypothesis_testing_roi.png)
 
 2️⃣ True Skill vs. Luck (Bayesian Shrinkage)
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -38,7 +38,7 @@ To rank the top 10 channel combinations, I used the James-Stein Estimator. This 
 
 The Halo Effect: In the visualizations, the faint outer circles (Observed ROI) represent raw data, while the solid inner dots represent the True Skill level.
 
-![True Skill Audit](true_roi_obsereved_roi.png)
+![True Skill Audit](true_roi_and_observed_roi.png)
 
 3️⃣ Monte Carlo Forecasting
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
