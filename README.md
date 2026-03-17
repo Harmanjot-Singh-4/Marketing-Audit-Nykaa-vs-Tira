@@ -1,13 +1,13 @@
 💄 Marketing Performance Audit: Nykaa vs. Tira
-
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Statistical Inference, Bayesian Shrinkage, & Monte Carlo Simulations
 
 📌 Project Overview
-
-This repository contains a comprehensive audit of 55,555+ marketing campaigns comparing two major beauty retailers: Nykaa and Tira. The project moves beyond basic descriptive statistics to answer a fundamental business question: Is one brand structurally outperforming the other, or is the observed difference merely statistical noise?
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
+This repository contains a comprehensive audit of 50,000+ marketing campaigns comparing two major beauty retailers: Nykaa and Tira. The project moves beyond basic descriptive statistics to answer a fundamental business question: Is one brand structurally outperforming the other, or is the observed difference merely statistical noise?
 
 🛠️ Technical Stack
-
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Data Manipulation: Pandas, NumPy
 
 Statistical Analysis: SciPy (Hypothesis Testing)
@@ -19,9 +19,9 @@ Simulation: Monte Carlo Random Walks (10,000 iterations)
 Visualization: Matplotlib, Seaborn
 
 🔬 Core Methodology & Visualizations
-
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
 1️⃣ Hypothesis Testing (The Baseline)
-
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Before diving into complex models, I established a statistical baseline.
 
 Levene’s Test: Used to check for equal variance between the two brands.
@@ -33,7 +33,7 @@ The Verdict: A p-value of 0.1487 was found, meaning we fail to reject the null h
 ![ROI Analysis](hypothesis_roi.png)
 
 2️⃣ True Skill vs. Luck (Bayesian Shrinkage)
-
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
 To rank the top 10 channel combinations, I used the James-Stein Estimator. This "shrinks" raw observed ROI toward the brand average to remove the impact of "lucky" high-performing outliers.
 
 The Halo Effect: In the visualizations, the faint outer circles (Observed ROI) represent raw data, while the solid inner dots represent the True Skill level.
@@ -41,6 +41,7 @@ The Halo Effect: In the visualizations, the faint outer circles (Observed ROI) r
 ![True Skill Audit](true_roi_obsereved_roi.png)
 
 3️⃣ Monte Carlo Forecasting
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
 I simulated 10,000 future scenarios to determine the probability of one brand dominating the other in CTR, ROI, and Conversions.
 
 Result: The results show a nearly 50/50 win probability, visually represented by "Simulation Branches" that track cumulative wins over time.
@@ -48,9 +49,9 @@ Result: The results show a nearly 50/50 win probability, visually represented by
 ![Simulation Branches](monte_carlo_branches.png)
 
 💡 Strategic Recommendations
-
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
 A. Content Duration Optimization
-
+-------------------------------------------------------------
 The data shows a clear "Goldilocks Zone" for ad performance.
 
 Recommendation: Focus production on 25 or 10 seconds creative assets.
@@ -58,17 +59,17 @@ Recommendation: Focus production on 25 or 10 seconds creative assets.
 Insight: Both brands saw a performance drop-off at 30 seconds (viewer fatigue) and lower scores for 5-10 second clips (insufficient "hook" time).
 
 B. Channel Allocation (The True Skill Winners)
-
+--------------------------------------------------------------
 Nykaa: Double down on the Email, YouTube, Facebook mix.
 
 Tira: Prioritize Google, Facebook, Email.
 
 C. Efficiency & Lead Quality
-
+-----------------------------------------------------------------
 Finding: Nykaa currently manages "Lead Waste" more effectively than Tira.
 
 Action: Tira should audit lead-capture forms on high-waste campaigns to improve conversion quality.
 
 🏁 Conclusion
-
+------------------------------------------------------------------------
 The audit reveals that Nykaa and Tira are in a state of high-equilibrium competition. While raw numbers might suggest a leader, the Student's T-test and Monte Carlo simulations prove that neither brand has a statistically significant "moat" yet.
