@@ -34,7 +34,7 @@ The Verdict: A p-value of 0.1487 was found, meaning we fail to reject the null h
 
 2️⃣ True Skill vs. Luck (Bayesian Shrinkage)
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
-To rank the top 10 channel combinations, I used the James-Stein Estimator. This "shrinks" raw observed ROI toward the brand average to remove the impact of "lucky" high-performing outliers.
+To rank the top 10 channel combinations used in Month of April 2025, I used the James-Stein Estimator. This "shrinks" raw observed ROI toward the brand average to remove the impact of "lucky" high-performing outliers.
 
 The Halo Effect: In the visualizations, the faint outer circles (Observed ROI) represent raw data, while the solid inner dots represent the True Skill level.
 
@@ -60,7 +60,7 @@ Insight: Both brands saw a performance drop-off at 30 seconds (viewer fatigue) a
 
 ![AD Duration](ad_duration.png)
 
-B. Channel Allocation (The True Skill Winners)
+B. Channel Allocation (The True Skill Winners in April 2025)
 --------------------------------------------------------------
 Nykaa: Double down on the Email, YouTube, Facebook mix.
 
