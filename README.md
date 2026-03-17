@@ -1,6 +1,6 @@
 💄 Marketing Performance Audit: Nykaa vs. Tira
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Statistical Inference, Bayesian Shrinkage, & Monte Carlo Simulations
+Hypothesis Testing , James-Stein Estimator, & Monte Carlo Simulation
 
 📌 Project Overview
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -54,9 +54,9 @@ A. Content Duration Optimization
 -------------------------------------------------------------
 The data shows a clear "Goldilocks Zone" for ad performance.
 
-Recommendation: Focus production on 25 or 10 seconds creative assets.
+Recommendation: Focus production on 10 and 25 seconds creative assets.
 
-Insight: Both brands saw a performance drop-off at 30 seconds (viewer fatigue) and lower scores for 5-10 second clips (insufficient "hook" time).
+Insight: Both brands saw a performance drop-off at 30 seconds (viewer fatigue) and lower scores for 5 second clips (insufficient "hook" time).
 
 B. Channel Allocation (The True Skill Winners)
 --------------------------------------------------------------
@@ -65,10 +65,12 @@ Nykaa: Double down on the Email, YouTube, Facebook mix.
 Tira: Prioritize Google, Facebook, Email.
 
 C. Efficiency & Lead Quality
------------------------------------------------------------------
-Finding: Nykaa currently manages "Lead Waste" more effectively than Tira.
+--------------------------------------------------------------------------------
+The analysis of "Lead Waste" (leads that fail to convert into customers) shows a highly competitive environment.
 
-Action: Tira should audit lead-capture forms on high-waste campaigns to improve conversion quality.
+Finding: Both Nykaa and Tira exhibit nearly identical efficiency levels in lead management. While minor fluctuations exist, the gap is statistically narrow, indicating that both brands have optimized their conversion funnels to a similar degree.
+
+Action: Since the brands are so close, the competitive advantage will come from incremental improvements. Both should perform deep-dive audits on specific "High-Waste" campaign outliers to refine lead-capture forms and improve the quality of inbound traffic.
 
 🏁 Conclusion
 ------------------------------------------------------------------------
