@@ -58,11 +58,15 @@ Recommendation: Focus production on 10 and 25 seconds creative assets.
 
 Insight: Both brands saw a performance drop-off at 30 seconds (viewer fatigue) and lower scores for 5 second clips (insufficient "hook" time).
 
+![AD Duration](ad_duration.png)
+
 B. Channel Allocation (The True Skill Winners)
 --------------------------------------------------------------
 Nykaa: Double down on the Email, YouTube, Facebook mix.
 
 Tira: Prioritize Google, Facebook, Email.
+
+![True Skill Audit](true_roi_and_observed_roi.png)
 
 C. Efficiency & Lead Quality
 --------------------------------------------------------------------------------
@@ -71,6 +75,8 @@ The analysis of "Lead Waste" (leads that fail to convert into customers) shows a
 Finding: Both Nykaa and Tira exhibit nearly identical efficiency levels in lead management. While minor fluctuations exist, the gap is statistically narrow, indicating that both brands have optimized their conversion funnels to a similar degree.
 
 Action: Since the brands are so close, the competitive advantage will come from incremental improvements. Both should perform deep-dive audits on specific "High-Waste" campaign outliers to refine lead-capture forms and improve the quality of inbound traffic.
+
+![Conversion and Waste](conversion_waste.png)
 
 🏁 Conclusion
 ------------------------------------------------------------------------
