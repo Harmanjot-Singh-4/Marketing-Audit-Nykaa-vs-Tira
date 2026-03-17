@@ -38,6 +38,8 @@ To rank the top 10 channel combinations used in Month of April 2025, I used the 
 
 The Halo Effect: In the visualizations, the faint outer circles (Observed ROI) represent raw data, while the solid inner dots represent the True Skill level.
 
+Note: This analysis specifically covers top 10 channel combinations used during April 2025.
+
 ![True Skill Audit](true_roi_and_observed_roi.png)
 
 3️⃣ Monte Carlo Forecasting
