@@ -87,4 +87,4 @@ The audit reveals that Nykaa and Tira are in a state of high-equilibrium competi
 Dataset
 --------------------------------------------------------------------------
 Multi-Brand Marketing Campaign Performance Dataset on Kaggle.com
-(link - https://www.kaggle.com/datasets/sshriya08/multi-brand-marketing-campaign-performance-dataset )
+( Link - https://www.kaggle.com/datasets/sshriya08/multi-brand-marketing-campaign-performance-dataset )
