@@ -83,3 +83,8 @@ Action: Since the brands are so close, the competitive advantage will come from 
 🏁 Conclusion
 ------------------------------------------------------------------------
 The audit reveals that Nykaa and Tira are in a state of high-equilibrium competition. While raw numbers might suggest a leader, the Student's T-test and Monte Carlo simulations prove that neither brand has a statistically significant "moat" yet.
+
+Dataset
+--------------------------------------------------------------------------
+Multi-Brand Marketing Campaign Performance Dataset on Kaggle.com
+(link - https://www.kaggle.com/datasets/sshriya08/multi-brand-marketing-campaign-performance-dataset )
