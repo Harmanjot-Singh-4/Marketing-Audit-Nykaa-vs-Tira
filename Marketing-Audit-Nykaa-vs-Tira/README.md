@@ -30,7 +30,7 @@ Student’s T-Test: Since equal variance was confirmed, a standard T-test was ap
 
 The Verdict: A p-value of 0.1487 was found, meaning we fail to reject the null hypothesis. The ROI difference is not statistically significant.
 
-![ROI Analysis](Marketing-Audit-Nykaa-vs-Tira/Pictures/hypothesis_testing_roi.png)
+![ROI Analysis](Pictures/hypothesis_testing_roi.png)
 
 2️⃣ True Skill vs. Luck (Bayesian Shrinkage)
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
