@@ -40,7 +40,7 @@ The Halo Effect: In the visualizations, the faint outer circles (Observed ROI) r
 
 Note: This analysis specifically covers top 10 channel combinations used during April 2025.
 
-![True Skill Audit](true_roi_observed_roi.png)
+![True Skill Audit](Pictures/true_roi_observed_roi.png)
 
 3️⃣ Monte Carlo Forecasting
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -48,7 +48,7 @@ I simulated 10,000 future scenarios to determine the probability of one brand do
 
 Result: The results show a nearly 50/50 win probability, visually represented by "Simulation Branches" that track cumulative wins over time.
 
-![Simulation Branches](monte_carlo_branches.png)
+![Simulation Branches](Pictures/monte_carlo_branches.png)
 
 💡 Strategic Recommendations
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -60,7 +60,7 @@ Recommendation: Focus production on 10 and 25 seconds creative assets.
 
 Insight: Both brands saw a performance drop-off at 30 seconds (viewer fatigue) and lower scores for 5 second clips (insufficient "hook" time).
 
-![AD Duration](ad_duration.png)
+![AD Duration](Pictures/ad_duration.png)
 
 B. Channel Allocation (The True Skill Winners in April 2025)
 --------------------------------------------------------------
@@ -68,7 +68,7 @@ Nykaa: Double down on the Email, YouTube, Facebook mix.
 
 Tira: Prioritize Google, Facebook, Email.
 
-![True Skill Audit](true_roi_observed_roi.png)
+![True Skill Audit](Pictures/true_roi_observed_roi.png)
 
 C. Efficiency & Lead Quality
 --------------------------------------------------------------------------------
@@ -78,7 +78,7 @@ Finding: Both Nykaa and Tira exhibit nearly identical efficiency levels in lead 
 
 Action: Since the brands are so close, the competitive advantage will come from incremental improvements. Both should perform deep-dive audits on specific "High-Waste" campaign outliers to refine lead-capture forms and improve the quality of inbound traffic.
 
-![Conversion and Waste](conversion_waste.png)
+![Conversion and Waste](Pictures/conversion_waste.png)
 
 🏁 Conclusion
 ------------------------------------------------------------------------
